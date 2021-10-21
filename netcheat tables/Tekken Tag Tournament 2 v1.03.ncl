@@ -13,3 +13,8 @@ Survival Wins
 0 016816B3 64
 0 016816BB 64
 #
+Max Money On Buy (May Give Max On Gain) 99,999,999G
+Medo
+0 00658B14 409D004C
+0 00658B60 3C007FFF
+#
