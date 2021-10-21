@@ -13,3 +13,5 @@ Survival Wins
 0 016816B3 64
 0 016816BB 64
 #
+Max Money
+999.999.999
